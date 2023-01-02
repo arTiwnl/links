@@ -4,12 +4,13 @@
 </p>
 
 <h2>🚀 Tecnologias</h2>
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-HTML e CSS
-JavaScript
-Git e Github
-Figma
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
 
 <h2>💻 Projeto
 O DevLinks é um agregador de links para usar como cartão de visitas online.
